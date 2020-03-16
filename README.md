@@ -4,6 +4,6 @@ This is a collection of pdfs related to Machine Learning and Cloud that I have c
 
 You can download most books from this Deep Web site called Imperial Library of Trantor- https://xfmro77i3lixucja.onion.sh
 
-Copyright laws are obsolete. With the technology to copy books without cost we can finally have universal access to the culture and enlightenment. We can provide the tools to allow everybody to read and learn without the interference of capitalist greed. 
+Copyright laws are obsolete. With the technology to copy books without cost we can finally have universal access to the knowledge and enlightenment. We can provide the tools to allow everybody to read and learn without the interference of capitalist greed. 
 
 If you have a specific request, feel free to email me at srpatil@uci.edu.
