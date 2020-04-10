@@ -1,6 +1,6 @@
 # Learning-Resources
 
-![alt text](./Images/Full_Stack.png)
+![alt text](./Images/full_stack.jpeg)
 
 This is a collection of pdfs related to Machine Learning and Cloud that I have collected from my experience. I also have a lot of books, but I am not uploading them here due to memory limitations and copyright issues.
 
