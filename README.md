@@ -1,6 +1,8 @@
 # Learning-Resources
 
-This is a collection of pdfs related to Machine Learning and Cloud that I have collected from my experience. I also have a lot of books, but I am not uploading them here due to copyright issues.
+![alt text](./Images/Full_Stack.png)
+
+This is a collection of pdfs related to Machine Learning and Cloud that I have collected from my experience. I also have a lot of books, but I am not uploading them here due to memory limitations and copyright issues.
 
 You can download most books from this Deep Web site called Imperial Library of Trantor- https://xfmro77i3lixucja.onion.sh
 
