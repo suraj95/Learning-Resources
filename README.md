@@ -2,7 +2,7 @@
 
 ![alt text](./Images/Data_Heirarchy.png)
 
-This is a collection of pdfs related to Big Data, Machine Learning and Cloud that I have collected from my experience. I also have a lot of books, but I am not uploading them here due to memory limitations and copyright issues.
+This is a collection of pdfs and ebooks related to Big Data, Machine Learning and Cloud that I have collected from my experience.
 
 You can download most books from this Deep Web site called Imperial Library of Trantor- http://xfmro77i3lixucja.onion/
 
