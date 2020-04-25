@@ -6,7 +6,7 @@ This is a collection of pdfs and ebooks related to Big Data, Machine Learning an
 
 You can download most books from this Deep Web site called Imperial Library of Trantor- http://xfmro77i3lixucja.onion/
 
-There is a Tor2Web proxy if you don't have TorBrowser (https://xfmro77i3lixucja.onion.sh), but I strongly advice against using it because it gets to see EVERYTHING. Your credentials if you sign in. Any cookies. Any uploads you make. All the pages you request and their contents etc which pretty much defeats the purpose of anonymity. 
+There is a Tor2Web proxy if you don't have TorBrowser (https://xfmro77i3lixucja.onion.sh), but I strongly advice against using it because it gets to see EVERYTHING- Your credentials if you sign in, any cookies, any uploads you make, all the pages you request and their contents etc. This pretty much defeats the purpose of anonymity. 
 
 Copyright laws are obsolete. With the technology to copy books without cost we can finally have universal access to the knowledge and enlightenment. We can provide the tools to allow everybody to read and learn without the interference of capitalist greed. 
 
