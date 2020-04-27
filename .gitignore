@@ -1,1 +1,24 @@
+.DS_store
+
+# Text Pattern
+
+*.txt
+*.php
+
+# R Data files
+
+*.Rhistory
+*.Rdata
+
+# Configuration files
+
+*.xml
+*.html
+*.jar
+
+# Executables
+
+*.exe
+*.app
+*.out
 
