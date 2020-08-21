@@ -10,7 +10,7 @@ You can download most books from this Deep Web site called Imperial Library of T
 
 ![alt text](./Images/git_cheat_sheet.jpeg)
 
-![alt text](./Images/types_of_database.png.png)
+![alt text](./Images/types_of_database.png)
 
 ![alt text](./Images/ML_stack.png)
 
