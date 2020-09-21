@@ -24,3 +24,8 @@
 *.app
 *.out
 
+# Large files (more than 50 MB)
+
+Book\ Collection/Implementing\ SAP\ HANA.epub
+Book\ Collection/The Official\ ABAP\ Reference.pdf
+Books\ by\ Publications/ABAP\ Development\ for\ SAP\ HANA.pdf
