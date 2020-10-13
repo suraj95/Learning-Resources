@@ -18,7 +18,11 @@ You can download most books from this Deep Web site called Imperial Library of T
 
 ![alt text](./Images/ML_stack.png)
 
-![alt text](./Images/Full_Stack.png)
+![alt text](./Images/types_of_database.png)
+
+![alt text](./Images/document_vs_relational.jpeg)
+
+![alt text](./Images/spark-kubernetes.jpeg)
 
 ## Important Links
 
