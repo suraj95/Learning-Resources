@@ -22,7 +22,7 @@ You can download most books from this Deep Web site called Imperial Library of T
 
 ![alt text](./Images/document_vs_relational.jpeg)
 
-![alt text](./Images/spark-kubernetes.jpeg)
+![alt text](./Images/data-analytics-pipeline.png)
 
 ## Important Links
 
