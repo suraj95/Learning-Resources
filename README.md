@@ -30,7 +30,6 @@ You can download most books from this Deep Web site called Imperial Library of T
 
 ![alt text](./Images/spark-kubernetes.jpeg)
 
-kubernetes-layer.png
 
 ## Important Links
 
