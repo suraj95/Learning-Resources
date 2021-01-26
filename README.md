@@ -24,7 +24,11 @@ You can download most books from this Deep Web site called Imperial Library of T
 
 ![alt text](./Images/data-analytics-pipeline.png)
 
+![alt text](./Images/Big-data-pipelines.jpeg)
+
 ![alt text](./Images/data-engg-stack.jpeg)
+
+![alt text](./Images/kafka-streams.png)
 
 ![alt text](./Images/kubernetes-layer.png)
 
