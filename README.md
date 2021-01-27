@@ -22,6 +22,8 @@ You can download most books from this Deep Web site called Imperial Library of T
 
 ![alt text](./Images/document_vs_relational.jpeg)
 
+![alt text](./Images/oltp-vs-olap.png)
+
 ![alt text](./Images/data-analytics-pipeline.png)
 
 ![alt text](./Images/Big-data-pipelines.jpeg)
