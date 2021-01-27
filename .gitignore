@@ -24,6 +24,10 @@
 *.app
 *.out
 
+# Duplicates (multiple formats like pdf, epub, mobi)
+
+Books\ by\ Publications/learning-sql_pdf.pdf
+
 # Large files (more than 50 MB)
 
 Books\ by\ Publications/Implementing\ SAP\ HANA.epub
