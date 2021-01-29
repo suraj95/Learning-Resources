@@ -32,7 +32,7 @@ You can download most books from this Deep Web site called Imperial Library of T
 
 ![alt text](./Images/data-engg-stack.jpeg)
 
-![alt text](./Images/kafka-streams.png)
+![alt text](./Images/PL-uses.jpeg)
 
 ![alt text](./Images/kubernetes-layer.png)
 
