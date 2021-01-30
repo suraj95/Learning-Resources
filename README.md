@@ -14,6 +14,8 @@ You can download most books from this Deep Web site called Imperial Library of T
 
 ![alt text](./Images/basic_linux_commands.jpeg)
 
+![alt text](./Images/PL-uses.jpeg)
+
 ![alt text](./Images/ML_Mindmap.jpeg)
 
 ![alt text](./Images/ML_stack.png)
@@ -28,11 +30,11 @@ You can download most books from this Deep Web site called Imperial Library of T
 
 ![alt text](./Images/data-analytics-pipeline.png)
 
+![alt text](./Images/python-vs-scala.jpg)
+
 ![alt text](./Images/Big-data-pipelines.jpeg)
 
 ![alt text](./Images/data-engg-stack.jpeg)
-
-![alt text](./Images/PL-uses.jpeg)
 
 ![alt text](./Images/kubernetes-layer.png)
 
